@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(#00ff62, #00f196, #00d4ff);
+}
+
+#score {
+    font-size: 30px;
+    float: left;
+    color: rgb(68, 0, 255);
+}
+
+#timer {
+    font-size: 30px;
+    float: right;
+    color: rgb(68, 0, 255);
+}
+
+#sketch {
+    color: red;
+}
+
+#confidence {
+    color: yellow;
+}
+#guess {
+    color: orange;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
